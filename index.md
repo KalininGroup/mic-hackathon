@@ -51,10 +51,16 @@ The event will take place in hybrid(virtual and in-person) mode using a combinat
 
 **[Link](https://miro.com/app/board/uXjVLN06K4Y=/?share_link_id=419763633861) to access miro board**. Edit access will be provided after joining the slack. 
 
+<!-- 
+## Prizes
 
+Will be announced soon! 
+
+{% else %}
+
+{% endif %} -->
 ## Winners for Mic-Hackathon 2024
 ##### All project submission can be found at this [link](https://kaliningroup.github.io/mic-hackathon/projects/)
-
 | Rank                  | Team Name          | Participants & Affiliations                           | Code Link                | Drive Link              |
 |-----------------------|--------------------|------------------------------------------------------|--------------------------|-------------------------|
 | 1st Place            |  GANder: Ferroelastic–Ferroelectric Domains Observed by Image-to-Image Translation  | Ralph Bulanadi (University of Geneva, team lead), Kieran J Pang (Justus-Liebig-Universität Gießen), Michelle Wang (Technical University of Denmark)  | [Code](https://github.com/yssion/mic-hackathon-GANder)               | [Drive](https://drive.google.com/drive/folders/120aacIo92APMLo__jbaIO9FT1D_hqKcT?usp=drive_link)             |
@@ -64,7 +70,6 @@ The event will take place in hybrid(virtual and in-person) mode using a combinat
 | Honorable Mention   | MicroscopyLLM        | Adib Bazgir (University of Missouri-Columbia), Rama chandra Praneeth Madugula (New York University), Yuwen Zhang (University of Missouri-Columbia) | [Code](https://github.com/adibgpt/MicroscopyLLM-Bench)               | [Drive](https://drive.google.com/drive/folders/11y4J0gsL85Tvg5T0dcjIHJFaPEsxb-1g?usp=drive_link)             |
 | Honorable Mention   | Automating AFM through model-driven image segmentation and classification      | Sam Welborn (NERSC/NCEM, team lead), Mikolaj Jakowski (UTK), Shawn Patrick (UTK), Alex Pattison (NCEM), Panos Manganaris, Sirisha Madugula (ORNL) | [Code](https://github.com/swelborn/team-10)               | [Drive](https://drive.google.com/drive/folders/120EWOBBKqgJM6EBALVRNT9TZcAgNq9fG?usp=drive_link)              |
 | Honorable Mention   | Unmasking biomacromolecular conformational dynamics from 2D analysis of subdomains dynamic modes and molecular kinetics   | Ian Addison-Smith(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain), Willy Menacho(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain) and Horacio V. Guzman(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain) | [Code](https://github.com/pyF4all/afm_md_dmd/tree/main)               | [Drive](https://drive.google.com/drive/folders/120czHNdUNsXaTI7IpSDXQWPvzwyEw1b4?usp=drive_link)             |
-
 
 ##  Gold Sponsor 
 

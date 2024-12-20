@@ -5,6 +5,22 @@ menu_title: Projects
 menu_icon: briefcase
 ---
 
+## Winners for Mic-Hackathon 2024
+
+| Rank                  | Team Name          | Participants & Affiliations                           | Code Link                | Drive Link              |
+|-----------------------|--------------------|------------------------------------------------------|--------------------------|-------------------------|
+| 1st Place            |  GANder: Ferroelastic–Ferroelectric Domains Observed by Image-to-Image Translation  | Ralph Bulanadi (University of Geneva, team lead), Kieran J Pang (Justus-Liebig-Universität Gießen), Michelle Wang (Technical University of Denmark)  | [Code](https://github.com/yssion/mic-hackathon-GANder)               | [Drive](https://drive.google.com/drive/folders/120aacIo92APMLo__jbaIO9FT1D_hqKcT?usp=drive_link)             |
+| 2nd Place            | AutoScriptCopilot           | Participant Xiangyu Yin (Argonne National Laboratory), Yi Jiang (Argonne National Laboratory), Yu-Tsun Shao (University of Southern California), Benjamin Fein-Ashley (University of Southern California)  | [Code](https://github.com/xyin-anl/AutoScriptCopilot)              | [Drive](https://drive.google.com/drive/folders/123BAAJnAccojaPxiTgR-xil1Z8ZebpAZ?usp=drive_link)              |
+| 3rd Place            |  Structure Discovery through Image-to-Graph Machine Learning Model         | Lauri Kurki (Aalto University, team lead), Harshit Sethi (Aalto University), Jie Huang (Aalto University) | [Code](https://github.com/SINGROUP/relationformer-hack/tree/afm-main)               | [Drive](https://drive.google.com/drive/folders/120Bf0Muow8Xu9F5NEhDh9H0TT6GdatZt?usp=drive_link)            |
+| Student Council Award| Reward based Segmentation:  Phase Mapping of 2D Polycrystalline Pd-Se Phases       | Kamyar Barakati (University of Tennessee,team lead), Aditya Raghavan (University of Tennessee)  | [Code](https://colab.research.google.com/drive/16Sw1T5Tgo121D4IUPTUF3Lm_WGyESmYs?usp=sharing)               | [Drive](https://drive.google.com/drive/folders/11u5boZctCPljXoheYjtcpB103k_3yrVU?usp=drive_link)             |
+| Honorable Mention   | MicroscopyLLM        | Adib Bazgir (University of Missouri-Columbia), Rama chandra Praneeth Madugula (New York University), Yuwen Zhang (University of Missouri-Columbia) | [Code](https://github.com/adibgpt/MicroscopyLLM-Bench)               | [Drive](https://drive.google.com/drive/folders/11y4J0gsL85Tvg5T0dcjIHJFaPEsxb-1g?usp=drive_link)             |
+| Honorable Mention   | Automating AFM through model-driven image segmentation and classification      | Sam Welborn (NERSC/NCEM, team lead), Mikolaj Jakowski (UTK), Shawn Patrick (UTK), Alex Pattison (NCEM), Panos Manganaris, Sirisha Madugula (ORNL) | [Code](https://github.com/swelborn/team-10)               | [Drive](https://drive.google.com/drive/folders/120EWOBBKqgJM6EBALVRNT9TZcAgNq9fG?usp=drive_link)              |
+| Honorable Mention   | Unmasking biomacromolecular conformational dynamics from 2D analysis of subdomains dynamic modes and molecular kinetics   | Ian Addison-Smith(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain), Willy Menacho(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain) and Horacio V. Guzman(Institut de Ciència de Materials de Barcelona (ICMAB-CSIC), Barcelona, Spain) | [Code](https://github.com/pyF4all/afm_md_dmd/tree/main)               | [Drive](https://drive.google.com/drive/folders/120czHNdUNsXaTI7IpSDXQWPvzwyEw1b4?usp=drive_link)             |
+
+
+## All project submission's:
+
+
 | Team Number | Project Name         | Participants                              | Drive link for files(write-up, video.. )  | GitHub/colab/code link |
 |-------------|-----------------------|------------------------------------------|-----------------------------------|-----------|
 | 1           | Reward based Segmentation:  Phase Mapping of 2D Polycrystalline Pd-Se Phases  | Kamyar Barakati (University of Tennessee,team lead), Aditya Raghavan (University of Tennessee) | [Drive Link 1](https://drive.google.com/drive/folders/11u5boZctCPljXoheYjtcpB103k_3yrVU?usp=drive_link)                | [code link](https://colab.research.google.com/drive/16Sw1T5Tgo121D4IUPTUF3Lm_WGyESmYs?usp=sharing) |
