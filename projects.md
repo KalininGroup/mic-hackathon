@@ -5,8 +5,7 @@ menu_title: Projects
 menu_icon: briefcase
 ---
 
-## Winners for Mic-Hackathon 2024
-
+## Congratulations to the winners
 | Rank                  | Team Name          | Participants & Affiliations                           | Code Link                | Drive Link              |
 |-----------------------|--------------------|------------------------------------------------------|--------------------------|-------------------------|
 | 1st Place            |  GANder: Ferroelastic–Ferroelectric Domains Observed by Image-to-Image Translation  | Ralph Bulanadi (University of Geneva, team lead), Kieran J Pang (Justus-Liebig-Universität Gießen), Michelle Wang (Technical University of Denmark)  | [Code](https://github.com/yssion/mic-hackathon-GANder)               | [Drive](https://drive.google.com/drive/folders/120aacIo92APMLo__jbaIO9FT1D_hqKcT?usp=drive_link)             |
