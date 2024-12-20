@@ -35,6 +35,8 @@ The hackathon is open to everyone, regardless of background or experience. Our N
 
 Prior programming experience is not required, but it is recommended for coding projects. We provide the starting materials on the resource page. To learn about the types of projects within the scope of the hackathon, go to the submission page. During the hackathon, the organizers will be available to support you. After the hackathon, we plan to integrate the projects into a scholarly publication. If you are interested in supporting the hackathon as an organizer or acting as a judge, please indicate so on the registration form.
 
+{% endif %}
+
 ## Logistics
 
 The event will take place in hybrid (virtual and in-person) mode using a combination of **video conferencing** (Zoom) for meetings and seminars, and **discussion forums** (Slack, Miro).
